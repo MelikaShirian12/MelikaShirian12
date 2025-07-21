@@ -1,16 +1,71 @@
-## Hi there 👋
+<!-- Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=6AA6F8&center=true&vCenter=true&width=800&lines=Hi,+I'm+Melika!+👋;AI+Enthusiast+%7C+Open-Source+Developer;Always+Learning+%7C+Always+Building...">
+</p>
 
-<!--
-**MelikaShirian12/MelikaShirian12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# 🌟 Welcome to My Profile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm **Melika** – passionate about **building projects, exploring AI, and crafting interactive solutions**.  
+I focus on **clean code, creativity, and lifelong learning**.
+
+---
+
+## 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MelikaShirian12&theme=onedark&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MelikaShirian12&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MelikaShirian12&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🌌 3D Contribution Skyline
+<p align="center">
+  <a href="https://skyline.github.com/MelikaShirian12/2025" target="_blank">
+    <img src="https://github.com/MelikaShirian12/MelikaShirian12/raw/main/assets/skyline.gif" alt="3D GitHub Skyline" width="600"/>
+  </a>
+</p>
+<sub>*(Click the skyline to view in 3D)*</sub>
+
+---
+
+## 🎧 Now Playing on Spotify
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=MelikaShirian12&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+</p>
+
+---
+
+## 🚀 Tech & Tools
+`Python` `JavaScript` `C++` `HTML` `CSS`  
+`React` `Node.js` `PyTorch` `TensorFlow` `Docker`
+
+---
+
+## 🌟 Featured Projects
+- [**Project 1**](https://github.com/MelikaShirian12) – A short and catchy description.  
+- [**Project 2**](https://github.com/MelikaShirian12) – Another cool project to check out.  
+
+---
+
+## 📬 Connect With Me
+<p align="center">
+  <a href="mailto:MelikaShirian12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/MelikaShirian12"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/MelikaShirian12"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+### 👀 Visitors  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MelikaShirian12&label=Profile+Views&color=blue&style=for-the-badge" />
+</p>
