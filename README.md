@@ -27,22 +27,6 @@ I focus on **clean code, creativity, and lifelong learning**.
 
 ---
 
-## 🌌 3D Contribution Skyline
-<p align="center">
-  <a href="https://skyline.github.com/MelikaShirian12/2025" target="_blank">
-    <img src="https://github.com/MelikaShirian12/MelikaShirian12/raw/main/assets/skyline.gif" alt="3D GitHub Skyline" width="600"/>
-  </a>
-</p>
-<sub>*(Click the skyline to view in 3D)*</sub>
-
----
-
-## 🎧 Now Playing on Spotify
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=MelikaShirian12&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
-</p>
-
----
 
 ## 🚀 Tech & Tools
 `Python` `JavaScript` `C++` `HTML` `CSS`  
