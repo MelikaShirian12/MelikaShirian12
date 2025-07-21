@@ -10,31 +10,3 @@
 I'm **Melika** – passionate about **building projects, exploring AI, and crafting interactive solutions**.  
 I focus on **clean code, creativity, and lifelong learning**.
 
----
-
-
-## 🚀 Tech & Tools
-`Python` `JavaScript` `C++` `HTML` `CSS`  
-`React` `Node.js` `PyTorch` `TensorFlow` `Docker`
-
----
-
-## 🌟 Featured Projects
-- [**Project 1**](https://github.com/MelikaShirian12) – A short and catchy description.  
-- [**Project 2**](https://github.com/MelikaShirian12) – Another cool project to check out.  
-
----
-
-## 📬 Connect With Me
-<p align="center">
-  <a href="mailto:MelikaShirian12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/MelikaShirian12"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/MelikaShirian12"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-### 👀 Visitors  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MelikaShirian12&label=Profile+Views&color=blue&style=for-the-badge" />
-</p>
